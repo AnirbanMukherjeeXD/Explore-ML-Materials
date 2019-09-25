@@ -1,3 +1,5 @@
+# Student version : https://tinyurl.com/numpylevel1-280919
+
 # Use the numpy library
 import numpy as np
 
