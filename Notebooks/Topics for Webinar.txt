@@ -1,4 +1,4 @@
-﻿Topics:
+﻿Topics for Webinar:
 1. Intro: Quick recap of ML, Discussion with others how far they've learnt and projects they've worked on [ 10 mins ]
 
 2. Preprocessing Methods [ 20 mins ]
