@@ -1,0 +1,15 @@
+﻿Topics:
+1. Intro: Quick recap of ML, Discussion with others how far they've learnt and projects they've worked on [ 10 mins ]
+
+2. Preprocessing Methods [ 20 mins ]
+	• Data visualization [ Line chart, bar chart, histograms, box plots ]
+	• Missing Data & Outliers [ Imputation, Oversampling ]
+	• Categorical Data [ Label Encoding & One-Hot Encoding ]
+	• Feature Scaling [ Standardization, Normalization ]
+
+3. Some supervised models [ 15 mins]
+	• SVM Kernel
+	• Decision Tree & Random Forest
+
+4. Some unsupervised models [ 15 mins ]
+	• K-Means Clustering
