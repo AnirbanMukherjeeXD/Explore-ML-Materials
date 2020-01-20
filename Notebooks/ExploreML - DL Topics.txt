@@ -1,7 +1,7 @@
 Deep Learning
 - What [Definition, Examples]
 - Why [Compare with traditional ML, Abundance of Data]
-- When [Feature Representation]
+- When [Feature Extraction/Representation]
 
 Intuition
 - Perceptron
