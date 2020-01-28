@@ -3,6 +3,9 @@ Deep Learning
 - Why [Compare with traditional ML, Abundance of Data]
 - When [Feature Extraction/Representation]
 
+Code
+- Simple Keras Sequential Model
+
 Intuition
 - Perceptron
 - Neural Net
